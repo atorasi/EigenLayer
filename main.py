@@ -58,6 +58,7 @@ if __name__ == '__main__':
         except Exception as e:
             logger.error(f'Ошибка на моменте: {reason}, причина: {e}')
             failed_accs_w(key, adres)
+            print('')
             continue
             
 
