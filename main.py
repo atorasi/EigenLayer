@@ -21,7 +21,7 @@ if __name__ == '__main__':
             balance, adres = balance_check(key, acc_info)
             
             reason = 'RocketPool'
-            value_to_rpool = float(balance) * randint(percent_from_rp * 1000, percent_from_rp * 1000) / 10000 if balance >= 0.1 else randint(1200, 2000) / 100000
+            value_to_rpool = float(balance) * randint(percent_from_rp * 1000, percent_from_rp * 1000) / 100000 if balance >= 0.1 else randint(1200, 2000) / 100000
             balance = float(balance) - value_to_rpool
             hash_rpool = bridge_geth(key, value_to_rpool, acc_info)
             logger.success(f'Задепозитил в RocketPool - acc.{acc_info}, сплю {wanna_sleep_activ()} |№{acc_number}|')
