@@ -7,7 +7,7 @@ EigenLayer Testnet.... Софт на EigenLayer по этому гайду. http
 
 > pip install -r requirements.txt в консоль, чтобы установить зависимости
 
-: Софт переводит ваш gETH в rETH и stETH, дальше кидает его в стейкинг юзая протокол EigenLayer. Остается только молиться на ретродроп в будущем.
+-> Софт переводит ваш gETH в rETH и stETH, дальше кидает его в стейкинг юзая протокол EigenLayer. Остается только молиться на ретродроп в будущем.
 
 # Media
 telegram - t.me/tripleshizu
