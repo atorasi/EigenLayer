@@ -9,7 +9,7 @@ EigenLayer Testnet.... Софт на EigenLayer по этому гайду. http
 
 > Python 3.10+ 
 
--> Софт переводит ваш gETH в rETH и stETH, дальше кидает его в стейкинг юзая протокол EigenLayer. Остается только молиться на ретродроп в будущем.
+-> Софт переводит ваш gETH в rETH и stETH, дальше кидает их в стейкинг юзая протокол EigenLayer. Остается только молиться на ретродроп в будущем.
 
 # Media
 telegram - t.me/tripleshizu
