@@ -1,15 +1,15 @@
 # EigenLayer
-EigenLayer Testnet.... Софт на EigenLayer по этому гайду. https://teletype.in/@alphahunterss/EigenLayer
+EigenLayer Testnet.... Soft on EigenLayer according to this guide. https://teletype.in/@alphahunterss/EigenLayer
 
-> В private_keys.txt вставьте приватники. На кошельках должен быть тестовый эфир в Goerli. (Минимум 0.05)
+> In private_keys.txt, insert privs. The wallets should have test ether in Goerli. (Minimum 0.05)
 
-> В config.py настройте сон и процент, от эфира, который будет потрачен.
+> In config.py configure sleep and percentage, of ether to be spent.
 
-> pip install -r requirements.txt в консоль, чтобы установить зависимости
+> pip install -r requirements.txt to console to install dependencies
 
 > Python 3.10+ 
 
--> Софт переводит ваш gETH в rETH и stETH, дальше кидает их в стейкинг юзая протокол EigenLayer. Остается только молиться на ретродроп в будущем.
+-> The software translates your gETH into rETH and stETH, then throws them into steaking using EigenLayer protocol. We can only pray for retrodrop in the future.
 
 # Media
 telegram - t.me/tripleshizu
@@ -18,6 +18,6 @@ twitter - twitter.com/tripleshizu
 
 tiktok - tiktok.com/iloveronaldo
 
-> Если есть советы по коду напишите в лс @qqrwo - tg. Спасибо.
+> If you have any code tips email @qqrwo - tg. Thanks.
 
-# Пока
+# Bye
